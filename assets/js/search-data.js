@@ -405,16 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-two-papers-on-3d-foundation-models-and-local-feature-learning-have-been-accepted-by-icme-2026-s-vggt-structure-aware-subscene-decomposition-for-scalable-3d-foundation-models-d2feat-dual-distillation-for-semantic-and-geometric-local-feature-learning-stay-tuned-for-the-full-papers",
+          title: 'Two papers on 3D Foundation Models and Local Feature Learning have been accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
