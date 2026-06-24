@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"ICIP":
+  url: https://2026.ieeeicip.org/
+  color: "#d117c9"
+
+"ICME":
+  url: https://2026.ieeeicme.org/
+  color: "#d117c9"
+
+"BIBM":
+  url: https://ieeebibm.org/
+  color: "#0d6efd"
+
+"BSPC":
+  url: https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control
+  color: "#198754"

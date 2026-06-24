@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /repositories/
-title: repo
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /misc/
+title: misc
+description: Miscellaneous links, code repositories, and side work.
 nav: true
-nav_order: 3
+nav_order: 6
 ---
 
 {% if site.data.repositories.github_users %}

@@ -4,22 +4,22 @@ title: about
 permalink: /
 nav: true
 nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Undergrad
+    Undergraduate Student
     Beijing Normal-Hong Kong Baptist University
     Email: t330026083@mail.bnbu.edu.cn
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -29,15 +29,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an undergraduate student at **Beijing Normal-Hong Kong Baptist Unversity**, looking for PhD position in 2027 Fall!
+I am currently an undergraduate student at **Beijing Normal-Hong Kong Baptist University (BNBU)** and am looking for a PhD position for Fall 2027.
 
-Prior to becoming a student @ BNBU in Sept 2023, I received training for **Olympic in Informatics @ Changjun High School** since 2017.
+Before joining BNBU in September 2023, I received systematic training in **Olympiad in Informatics** at **Changjun High School** beginning in 2017.
 
-My previous research interests lie in Bioinformatics ans Medical Image Analysis, where I completed (solo and cooperative) 4 research projects. I am still actively working as a research assistant of [Central South University](https://www.csu.edu.cn/index.htm).
+My previous research interests were in **bioinformatics** and **medical image analysis**, where I completed four research projects as both an independent and collaborative researcher. I also worked as a research assistant with [Central South University](https://www.csu.edu.cn/index.htm).
 
-Since 2025 Spring, I started to focus on **3D Computer Vision**, under the the advising from [Dr. Wentao Cheng](https://wtchengcv.github.io), with a particular focus on:
+Since Spring 2025, I have focused on **3D Computer Vision** under the supervision of [Dr. Wentao Cheng](https://wtchengcv.github.io), with a particular focus on:
 
 - 3D Reconstruction
 - Efficient Feed-Forward 3D Foundation Models
 
-I am actively looking for PhD position in 2027 Fall.
+I am actively looking for a PhD position for Fall 2027. More details can be found on the [info page](/info/).
