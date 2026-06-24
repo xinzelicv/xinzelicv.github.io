@@ -16,6 +16,10 @@
   url: https://2026.ieeeicme.org/
   color: "#d117c9"
 
+"ICASSP":
+  url: https://2026.ieeeicassp.org/
+  color: "#d117c9"
+
 "BIBM":
   url: https://ieeebibm.org/
   color: "#0d6efd"

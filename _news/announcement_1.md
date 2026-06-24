@@ -5,4 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Two papers on 3D Foundation Models and Local Feature Learning have been accepted by ICME 2026! 🎉🎉<br>S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models.<br>D2Feat: Dual Distillation for Semantic and Geometric Local Feature Learning. Stay tuned for the full papers!
+Two papers on 3D Foundation Models and Local Feature Learning have been accepted by ICME 2026! 🎉🎉
+
+<ul>
+  <li>S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models.</li>
+  <li>D2Feat: Dual Distillation for Semantic and Geometric Local Feature Learning. Stay tuned for the full papers!</li>
+</ul>

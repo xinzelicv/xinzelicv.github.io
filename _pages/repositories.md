@@ -3,7 +3,7 @@ layout: page
 permalink: /misc/
 title: misc
 description: Miscellaneous links, code repositories, and side work.
-nav: true
+nav: false
 nav_order: 6
 ---
 
