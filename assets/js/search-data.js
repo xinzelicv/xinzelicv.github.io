@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repo",
-          title: "repo",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-info",
+          title: "info",
+          description: "Background information, CV, and research experience of Xinze Li.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/info/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae of Xinze Li, including education, research experience, projects, and selected achievements.",
+        },{id: "nav-misc",
+          title: "misc",
+          description: "Miscellaneous links, code repositories, and side work.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/misc/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -407,6 +407,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-two-papers-on-3d-foundation-models-and-local-feature-learning-have-been-accepted-by-icme-2026-s-vggt-structure-aware-subscene-decomposition-for-scalable-3d-foundation-models-d2feat-dual-distillation-for-semantic-and-geometric-local-feature-learning-stay-tuned-for-the-full-papers",
           title: 'Two papers on 3D Foundation Models and Local Feature Learning have been accepted...',
+          description: "",
+          section: "News",},{id: "news-one-paper-titled-quadbox-accelerating-3d-gaussian-splatting-with-geometry-aware-boxes-was-accepted-to-icip-2026",
+          title: 'One paper titled “QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes” was accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
