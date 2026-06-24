@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-info",
-          title: "info",
-          description: "Background information, CV, and research experience of Xinze Li.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/info/";
-          },
-        },{id: "nav-misc",
-          title: "misc",
-          description: "Miscellaneous links, code repositories, and side work.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/misc/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -410,6 +396,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-titled-quadbox-accelerating-3d-gaussian-splatting-with-geometry-aware-boxes-was-accepted-to-icip-2026",
           title: 'One paper titled “QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes” was accepted...',
+          description: "",
+          section: "News",},{id: "news-we-released-the-project-page-for-recal3r-a-reliability-calibrated-learning-rate-rule-for-streaming-3d-reconstruction",
+          title: 'We released the Project Page for ReCal3R: a reliability-calibrated learning-rate rule for streaming...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
