@@ -40,4 +40,4 @@ Since Spring 2025, I have focused on **3D Computer Vision** under the supervisio
 - 3D Reconstruction
 - Efficient Feed-Forward 3D Foundation Models
 
-I am actively looking for a PhD position for Fall 2027. More details can be found on the [info page](/info/).
+I am actively looking for a PhD position for Fall 2027.
